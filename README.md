@@ -51,13 +51,14 @@ Branches allow you to separate your work from the `main` branch. In other words,
 
 4. In the field, name your branch `my-first-branch`. In this case, the name must be `my-first-branch` to trigger the course workflow.
 5. Click **Create branch: my-first-branch** to create your branch.
+   已经创建新的分支read-me
 
    ![create-branch-button](/images/create-branch-button.png)
 
    The branch will automatically switch to the one you have just created.
    The **main** branch drop-down bar will reflect your new branch and display the new branch name.
 
-6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+7. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
 
